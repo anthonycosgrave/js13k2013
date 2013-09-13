@@ -1,3 +1,6 @@
+// anthony cosgrave
+// js13k 2013 contest entry 
+// theme: 'bad luck'
 (function () {
 	var lastTime = 0, vendors = ['ms', 'moz', 'webkit', 'o'];
 	for (var x = 0; x < vendors.length && !window.requestAnimationFrame; ++x) {
